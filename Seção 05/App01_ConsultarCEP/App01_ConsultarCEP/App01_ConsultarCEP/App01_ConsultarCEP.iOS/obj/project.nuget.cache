@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jmC5G1h2YDWWE4Zz1g8kAzf1lMUuzmwjMkEdFmt0KHQ7GJdH5DB6Quwy0yI+O95g46ASqySlHILuvAPzB/R59g==",
+  "success": true,
+  "projectFilePath": "C:\\Github\\XamarinForms2020\\Seção 05\\App01_ConsultarCEP\\App01_ConsultarCEP\\App01_ConsultarCEP\\App01_ConsultarCEP.iOS\\App01_ConsultarCEP.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinycius.rezende\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
